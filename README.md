@@ -36,6 +36,7 @@ Tools and platforms for managing freight, transportation, and logistics operatio
 - [Project44](https://www.project44.com/) — Real-time transportation visibility platform.
 - [FourKites](https://www.fourkites.com/) — Supply chain visibility and tracking solution.
 - [Descartes Systems Group](https://www.descartes.com/) — Logistics and routing optimization platform.
+- [MyCarTracks](https://mycartracks.com) — Mainly app-based GPS vehicle tracking and automatic mileage tracking with route history, geofencing, reports, and fleet visibility.
 
 ## Procurement & Sourcing
 
