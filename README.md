@@ -68,6 +68,7 @@ Platforms and tools for analyzing supply chain performance and optimizing operat
 - [Tableau](https://www.tableau.com/) — Data visualization platform for supply chain analytics.
 - [Power BI](https://powerbi.microsoft.com/) — Business intelligence platform for reporting and insights.
 - [Llamasoft (Coupa Supply Chain Design)](https://www.coupa.com/products/supply-chain-design) — Supply chain modeling and optimization platform.
+- [Packrift Packaging Optimization Benchmark Corpus](https://packrift.github.io/packaging-optimization-benchmark-corpus/) — SKU-level packaging optimization benchmark corpus for dimensional-weight, fit, cost, and warehouse planning analysis.
 
 ## Sustainability & Risk Management
 
