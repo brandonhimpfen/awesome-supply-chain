@@ -32,6 +32,7 @@ End-to-end platforms for managing supply chain operations and coordination.
 
 Tools and platforms for managing freight, transportation, and logistics operations.
 
+- [Cargoson](https://www.cargoson.com/) — Multi-carrier transport management software for manufacturers and wholesalers.
 - [Flexport](https://www.flexport.com/) — Digital freight forwarding and supply chain platform.
 - [Project44](https://www.project44.com/) — Real-time transportation visibility platform.
 - [FourKites](https://www.fourkites.com/) — Supply chain visibility and tracking solution.
