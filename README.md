@@ -66,6 +66,7 @@ Technologies for tracking goods, shipments, and supply chain events in real time
 
 Platforms and tools for analyzing supply chain performance and optimizing operations.
 
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) — Trust scoring for AI agents on Solana. Verify agent wallet identity before x402 micropayments. Free MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
 - [Tableau](https://www.tableau.com/) — Data visualization platform for supply chain analytics.
 - [Power BI](https://powerbi.microsoft.com/) — Business intelligence platform for reporting and insights.
 - [Llamasoft (Coupa Supply Chain Design)](https://www.coupa.com/products/supply-chain-design) — Supply chain modeling and optimization platform.
