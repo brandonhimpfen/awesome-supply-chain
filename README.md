@@ -69,6 +69,7 @@ Platforms and tools for analyzing supply chain performance and optimizing operat
 - [Tableau](https://www.tableau.com/) — Data visualization platform for supply chain analytics.
 - [Power BI](https://powerbi.microsoft.com/) — Business intelligence platform for reporting and insights.
 - [Llamasoft (Coupa Supply Chain Design)](https://www.coupa.com/products/supply-chain-design) — Supply chain modeling and optimization platform.
+- [Superhighway](https://superhighway.walls.sh/guides/supply-chain-research-agent) — Python agent that researches suppliers, commodity pricing, freight rates, and disruptions via live web search, producing structured intelligence briefs with risk ratings and alternative sourcing. Pay-per-call, no signup.
 
 ## Sustainability & Risk Management
 
