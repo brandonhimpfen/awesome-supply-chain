@@ -46,6 +46,7 @@ Platforms for supplier management, procurement processes, and sourcing strategie
 - [Coupa](https://www.coupa.com/) — Business spend management and procurement platform.
 - [Ariba (SAP)](https://www.sap.com/products/spend-management/ariba.html) — Procurement and supplier network platform.
 - [Jaggaer](https://www.jaggaer.com/) — Procurement and sourcing platform for enterprises.
+- [PlushSource](https://plushsource.com/) — Directory of custom plush manufacturers with MOQ, lead times, and certifications, searchable by country.
 
 ## Planning & Forecasting
 
