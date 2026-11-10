@@ -78,6 +78,7 @@ Tools and frameworks for managing supply chain risks, compliance, and sustainabi
 - [Resilinc](https://www.resilinc.com/) — Supply chain risk management and resilience platform.
 - [EcoVadis](https://ecovadis.com/) — Sustainability ratings and supplier assessment platform.
 - [Sourcemap](https://www.sourcemap.com/) — Supply chain mapping and transparency platform.
+- [Fastener CBAM Desk](https://paopao-studio.pages.dev/cbam/) — Free CBAM cost calculator and CN-code guides (Chinese/English) for iron and steel exports under 7318, 7326 and 7308, comparing EU default values with actual-data certificate costs.
 
 ## Related Awesome Lists
 
